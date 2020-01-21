@@ -1,8 +1,6 @@
 # Work with Python 3.6
 import discord
 
-TOKEN = 'NjY4OTY4NjUxNDc4Nzk0MjUw.XiZJTw.B_sAF_3pC5WZLgaR3BZAUaLzakQ'
-
 client = discord.Client()
 
 #import values
