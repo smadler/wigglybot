@@ -54,8 +54,6 @@ async def on_message(message):
                       msga = 'Here are the ball catch rates for Gigantamax '+pk
                       msgb = '\n'.join(map(str,gm_dict.get(pk)))
                       msg=msga+':\n'+msgb
-# how to print each value
-#        msg='\n'.join(map(str,gm_dict['Snorlax']))
         #output message
         msg+="\n"
         msg+="Please note that these values may not be completely correct!"
@@ -69,5 +67,4 @@ async def on_ready():
     print(client.user.id)
     print('------')
 
-
-client.run(os.getenv('TOKEN'))
+client.run(str(os.environ.get('TOKEN')))
