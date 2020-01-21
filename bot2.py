@@ -1,6 +1,6 @@
 # Work with Python 3.6
 import discord
-
+import os
 client = discord.Client()
 
 #import values
@@ -70,4 +70,4 @@ async def on_ready():
     print('------')
 
 
-client.run(TOKEN)
+client.run(os.getenv('TOKEN'))
