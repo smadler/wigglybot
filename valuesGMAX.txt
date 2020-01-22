@@ -17,3 +17,4 @@ Appletun/Repeat: 4.1%/Dusk: 3.5%/Level (if 100): 2.3%/Ultra: 2.3%/Great: 1.8%/Be
 Centiskorch/Repeat: 4.1%/Net 4.1%/Dusk: 3.5%/Level (if 100): 2.3%/Ultra: 2.3%/Great: 1.8%/Beast: 0.1%/ALL OTHERS: 1.2%
 Hatterene/Repeat: 4.1%/Dusk: 3.5%/Level (if 100): 2.3%/Ultra: 2.3%/Great: 1.8%/Beast: 0.1%/ALL OTHERS: 1.2%
 Grimmsnarl/Repeat: 4.1%/Dusk: 3.5%/Level (if 100): 2.3%/Ultra: 2.3%/Great: 1.8%/Beast: 0.1%/ALL OTHERS: 1.2%
+Sandaconda/Repeat: 4.1%/Dusk: 3.5%/Level (if 100): 2.3%/Ultra: 2.3%/Great: 1.8%/Beast: 0.1%/ALL OTHERS: 1.2%
