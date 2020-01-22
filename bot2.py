@@ -39,7 +39,7 @@ async def on_message(message):
             #it's not gmax
             if(len(words)==2):
                 pk = words[1].capitalize()
-                if pk not in gm_dict:
+                if pk not in norm_dict:
                   msg="Invalid input!"
                 else:
                   msga = 'Here are the ball catch rates for '+pk
