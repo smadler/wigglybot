@@ -42,11 +42,11 @@ async def on_message(message):
     elif message.content.startswith('%matchup') or message.content.startswith('$matchup'):
       words=message.content.split()
       if(len(words)!=2):
-        msg="Please only enter one type at a time!"
+        msg="Please enter one type at a time!"
       elif words[1] not in types_dict:
         msg="Invalid input!"
       else:
-        msg="For "+words[1]+"types, use "+ types_dict.get(words[1]) + " moves!"     
+        msg=words[1]     
       await client.send_message(message.channel, msg)
 
     #Ballbot
