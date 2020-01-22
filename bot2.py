@@ -47,9 +47,10 @@ async def on_message(message):
       elif search not in types_dict:
         msg="Invalid input!"
       else:
-        msg='For '+search
-        msg+=' types, use '+types_dict.get(search)
-        msg+=' type moves!'
+          msg=types_dict.get(search)
+#        msg='For '+search
+ #       msg+=' types, use '+types_dict.get(search)
+  #      msg+=' type moves!'
       await client.send_message(message.channel, msg)
 
     #Ballbot
