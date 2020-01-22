@@ -1,13 +1,1 @@
-aiohttp==3.5.4
-async-timeout==3.0.1
-attrs==19.3.0
-chardet==3.0.4
-discord.py==1.2.5
-idna==2.8
-idna-ssl==1.1.0
-multidict==4.7.4
-pip==10.0.1
-setuptools==39.0.1
-typing-extensions==3.7.4.1
-websockets==6.0
-yarl==1.4.2
+discord.py==0.16.12
