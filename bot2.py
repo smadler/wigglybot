@@ -28,7 +28,7 @@ async def on_message(message):
       msg+="Enter query as '%ball (or $ball) G [PokemonNameHere]' to get catch rates for gigantamaxes!"
       await client.send_message(message.channel, msg)
 
-    elif message.content.startswith('%wiggly'):
+    elif message.content.startswith('%wiggly') or message.content.startswith('$wiggly'):
       await client.send_file(message.channel, "wiggly.png")
 
     elif message.content.startswith('%ball') or message.content.startswith('$ball'):
