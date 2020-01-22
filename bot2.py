@@ -41,12 +41,15 @@ async def on_message(message):
     #type matchup
     elif message.content.startswith('%matchup') or message.content.startswith('$matchup'):
       words=message.content.split()
+      search=words[1].capitalize()
       if(len(words)!=2):
         msg="Please enter one type at a time!"
-      elif words[1] not in types_dict:
+      elif search not in types_dict:
         msg="Invalid input!"
       else:
-        msg=words[1]     
+        msg='For '+search
+        msg+=' types, use '+types_dict.get(search)
+        msg+=' type moves!'
       await client.send_message(message.channel, msg)
 
     #Ballbot
@@ -64,7 +67,6 @@ async def on_message(message):
                   msga = 'Here are the ball catch rates for '+pk
                   msgb = '\n'.join(map(str,norm_dict.get(pk)))
                   msg=msga+':\n'+msgb
-                  msg+="\n"
                   msg+="Please note that these values may not be completely correct!"
             else:
                 if(words[1]!='G' and words[1]!='g'):
@@ -78,7 +80,6 @@ async def on_message(message):
                       msga = 'Here are the ball catch rates for Gigantamax '+pk
                       msgb = '\n'.join(map(str,gm_dict.get(pk)))
                       msg=msga+':\n'+msgb
-                      msg+="\n"
                       msg+="Please note that these values may not be completely correct!"
         #output message
         await client.send_message(message.channel, msg)
