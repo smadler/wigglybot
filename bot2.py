@@ -16,6 +16,12 @@ with open("values.txt", 'r') as f:
         items = line.split('/')
         key, values = items[0], items[1:]
         norm_dict[key] = values
+types_dict={}
+with open("types.txt", 'r') as f:
+      for line in f:
+        items = line.split('/')
+        key, values = items[0], items[1:]
+        norm_dict[key] = values
         
 @client.event
 async def on_message(message):
@@ -30,6 +36,11 @@ async def on_message(message):
 
     elif message.content.startswith('%wiggly') or message.content.startswith('$wiggly'):
       await client.send_file(message.channel, "wiggly.png")
+
+    elif message.content.startswith('%matchup') or message.content.startswith('$matchup'):
+      word=message.content.capitalize()
+      msg="For "+word+"types, use "+ norm_dict.get(pk) + " moves!"     
+      await client.send_message(message.channel, msg)
 
     elif message.content.startswith('%ball') or message.content.startswith('$ball'):
         words = message.content.split()

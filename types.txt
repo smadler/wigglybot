@@ -1,0 +1,18 @@
+Bug/Fire, Flying, or Rock
+Dark/Bug, Fairy, or Fighting
+Dragon/Dragon, Fairy, or Ice
+Electric/Ground
+Fairy/Poison or Steel
+Fighting/Fairy, Flying, or Psychic
+Fire/Ground, Rock, or Water
+Flying/Electric, Ice, or Rock
+Ghost/Dark or Ghost
+Grass/Bug, Fire, Flying, Ice, or Poison
+Ground/Grass, Ice, or Water
+Ice/Fighting, Fire, Rock, or Steel
+Normal/Fighting
+Poison/Ground or Psychic
+Psychic/Bug, Dark, or Ghost
+Rock/Fighting, Grass, Ground, Steel, or Water
+Steel/Fighting, Fire, or Ground
+Water/Electric or Grass
