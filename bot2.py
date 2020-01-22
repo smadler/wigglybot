@@ -47,7 +47,6 @@ async def on_message(message):
       elif search not in types_dict:
         msg="Invalid input!"
       else:
-        msg=
         msg='For '+str(search)
         msg+=' types, use '+''.join(map(str,types_dict.get(search)))
         msg+=' type moves!'
