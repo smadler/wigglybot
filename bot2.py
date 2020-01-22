@@ -45,6 +45,8 @@ async def on_message(message):
                   msga = 'Here are the ball catch rates for '+pk
                   msgb = '\n'.join(map(str,norm_dict.get(pk)))
                   msg=msga+':\n'+msgb
+                  msg+="\n"
+                  msg+="Please note that these values may not be completely correct!"
             else:
                 if(words[1]!='G' and words[1]!='g'):
                     msg="Invalid input!"
@@ -57,9 +59,9 @@ async def on_message(message):
                       msga = 'Here are the ball catch rates for Gigantamax '+pk
                       msgb = '\n'.join(map(str,gm_dict.get(pk)))
                       msg=msga+':\n'+msgb
+                      msg+="\n"
+                      msg+="Please note that these values may not be completely correct!"
         #output message
-        msg+="\n"
-        msg+="Please note that these values may not be completely correct!"
         await client.send_message(message.channel, msg)
 
 #tells me the bot is open
