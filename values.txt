@@ -1,496 +1,381 @@
-Charmander/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Charmeleon/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Charizard/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Caterpie/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Metapod/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 100%/Level (if greater than Max Pokemon): 93.8%/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
-Butterfree/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 61.5%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Pikachu/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level (if greater than Max Pokemon): 100%/Fast: 100%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Raichu/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level (if greater than Max Pokemon): 58.6%/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
-Clefairy/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 87.9%/Net: 58.6%/Level (if greater than Max Pokemon): 100%/Fast: 58.6%/Heavy: 50.8%/ALL OTHERS: 58.6%
-Clefable/Repeat: 34.2%/Dusk: 29.3%/Ultra: 19.5%/Great: 14.6%/Net: 9.8%/Level (if greater than Max Pokemon): 19.5%/Fast: 9.8%/Heavy: 2%/ALL OTHERS: 9.8%
-Vulpix/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Ninetales/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level (if greater than Max Pokemon): 58.6%/Fast: 100%/Heavy: 21.5%/ALL OTHERS: 29.3%
-Oddish/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Gloom/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level (if greater than Max Pokemon): 93.8%/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
-Vileplume/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Diglett/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Dugtrio/Repeat: 68.4%/Dusk: 58.6%/Ultra: 39.1%/Great: 29.3%/Net: 19.5%/Level (if greater than Max Pokemon): 39.1%/Fast: 78.1%/Heavy: 11.7%/ALL OTHERS: 19.5%
-Meowth/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Growlithe/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Arcanine/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level (if greater than Max Pokemon): 58.6%/Fast: 29.3%/Heavy: 29.3%/ALL OTHERS: 29.3%
-Machop/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 70.3%/Level (if greater than Max Pokemon): 100%/Fast: 70.3%/Heavy: 62.5%/ALL OTHERS: 70.3%
-Machoke/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level (if greater than Max Pokemon): 70.3%/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
-Machamp/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 17.6%/ALL OTHERS: 17.6%
-Ponyta/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Rapidash/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level (if greater than Max Pokemon): 46.9%/Fast: 93.8%/Heavy: 15.6%/ALL OTHERS: 23.4%
-Slowpoke/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Farfetch'd/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Shellder/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Cloyster/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 82%/Level (if greater than Max Pokemon): 46.9%/Fast: 23.4%/Heavy: 23.4%/ALL OTHERS: 23.4%
-Gastly/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Haunter/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level (if greater than Max Pokemon): 70.3%/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
-Gengar/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 70.3%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Onix/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 25.4%/ALL OTHERS: 17.6%
-Krabby/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level (if greater than Max Pokemon): 100%/Fast: 87.9%/Heavy: 80.1%/ALL OTHERS: 87.9%
-Kingler/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 82%/Level (if greater than Max Pokemon): 46.9%/Fast: 23.4%/Heavy: 15.6%/ALL OTHERS: 23.4%
-Hitmonlee/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Hitmonchan/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Koffing/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Weezing/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level (if greater than Max Pokemon): 46.9%/Fast: 23.4%/Heavy: 15.6%/ALL OTHERS: 23.4%
-Rhyhorn/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level (if greater than Max Pokemon): 93.8%/Fast: 46.9%/Heavy: 46.9%/ALL OTHERS: 46.9%
-Rhydon/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level (if greater than Max Pokemon): 46.9%/Fast: 23.4%/Heavy: 23.4%/ALL OTHERS: 23.4%
-Mr. Mime/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Magikarp/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Gyarados/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 61.5%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Lapras/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 61.5%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 25.4%/ALL OTHERS: 17.6%
-Ditto/Repeat: 47.9%/Dusk: 41%/Ultra: 27.3%/Great: 20.5%/Net: 13.7%/Level (if greater than Max Pokemon): 27.3%/Fast: 13.7%/Heavy: 5.9%/ALL OTHERS: 13.7%
-Eevee/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Vaporeon/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 61.5%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Jolteon/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 70.3%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Flareon/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Snorlax/Repeat: 34.2%/Dusk: 29.3%/Ultra: 19.5%/Great: 14.6%/Net: 9.8%/Level (if greater than Max Pokemon): 19.5%/Fast: 9.8%/Heavy: 25.4%/ALL OTHERS: 9.8%
-Hoothoot/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Noctowl/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level (if greater than Max Pokemon): 70.3%/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
-Chinchou/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Lanturn/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level (if greater than Max Pokemon): 58.6%/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
-Pichu/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Cleffa/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 87.9%/Net: 58.6%/Level (if greater than Max Pokemon): 100%/Fast: 58.6%/Heavy: 50.8%/ALL OTHERS: 58.6%
-Igglybuff/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 99.6%/Net: 66.4%/Level (if greater than Max Pokemon): 100%/Fast: 66.4%/Heavy: 58.6%/ALL OTHERS: 66.4%
-Togepi/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Togetic/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level (if greater than Max Pokemon): 58.6%/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
-Natu/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Xatu/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level (if greater than Max Pokemon): 58.6%/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
-Bellossom/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Sudowoodo/Repeat: 88.9%/Dusk: 76.2%/Ultra: 50.8%/Great: 38.1%/Net: 25.4%/Level (if greater than Max Pokemon): 50.8%/Fast: 25.4%/Heavy: 17.6%/ALL OTHERS: 25.4%
-Wooper/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Quagsire/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 100%/Level (if greater than Max Pokemon): 70.3%/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
-Espeon/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 70.3%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Umbreon/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Wobbuffet/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Steelix/Repeat: 34.2%/Dusk: 29.3%/Ultra: 19.5%/Great: 14.6%/Net: 9.8%/Level (if greater than Max Pokemon): 19.5%/Fast: 9.8%/Heavy: 21.5%/ALL OTHERS: 9.8%
-Qwilfish/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 61.5%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 21.5%/ALL OTHERS: 17.6%
-Shuckle/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 91.8%/ALL OTHERS: 74.2%
-Sneasel/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level (if greater than Max Pokemon): 46.9%/Fast: 93.8%/Heavy: 39.1%/ALL OTHERS: 23.4%
-Swinub/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 87.9%/Level (if greater than Max Pokemon): 100%/Fast: 87.9%/Heavy: 9.8%/ALL OTHERS: 87.9%
-Piloswine/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level (if greater than Max Pokemon): 58.6%/Fast: 29.3%/Heavy: 91.8%/ALL OTHERS: 29.3%
-Corsola/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level (if greater than Max Pokemon): 46.9%/Fast: 23.4%/Heavy: 11.7%/ALL OTHERS: 23.4%
-Remoraid/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 91.8%/ALL OTHERS: 74.2%
-Octillery/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 100%/Level (if greater than Max Pokemon): 58.6%/Fast: 29.3%/Heavy: 66.4%/ALL OTHERS: 29.3%
-Delibird/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 21.5%/ALL OTHERS: 17.6%
-Mantine/Repeat: 34.2%/Dusk: 29.3%/Ultra: 19.5%/Great: 14.6%/Net: 34.2%/Level (if greater than Max Pokemon): 19.5%/Fast: 9.8%/Heavy: 17.6%/ALL OTHERS: 9.8%
-Tyrogue/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level (if greater than Max Pokemon): 58.6%/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
-Hitmontop/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Larvitar/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Pupitar/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 17.6%/ALL OTHERS: 17.6%
-Tyranitar/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 17.6%/ALL OTHERS: 17.6%
-Zigzagoon/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Linoone/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level (if greater than Max Pokemon): 70.3%/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
-Lotad/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Lombre/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 100%/Level (if greater than Max Pokemon): 93.8%/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
-Ludicolo/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 61.5%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Seedot/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Nuzleaf/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level (if greater than Max Pokemon): 93.8%/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
-Shiftry/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Wingull/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Pelipper/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 61.5%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Ralts/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 91.8%/Level (if greater than Max Pokemon): 100%/Fast: 91.8%/Heavy: 84%/ALL OTHERS: 91.8%
-Kirlia/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level (if greater than Max Pokemon): 93.8%/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
-Gardevoir/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Nincada/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Ninjask/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 100%/Level (if greater than Max Pokemon): 93.8%/Fast: 100%/Heavy: 39.1%/ALL OTHERS: 46.9%
-Shedinja/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 61.5%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Sableye/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Mawile/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Electrike/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level (if greater than Max Pokemon): 93.8%/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
-Manectric/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 70.3%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Roselia/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 87.9%/Net: 58.6%/Level (if greater than Max Pokemon): 100%/Fast: 58.6%/Heavy: 50.8%/ALL OTHERS: 58.6%
-Wailmer/Repeat: 100%/Dusk: 100%/Ultra: 97.7%/Great: 73.2%/Net: 100%/Level (if greater than Max Pokemon): 97.7%/Fast: 48.8%/Heavy: 48.8%/ALL OTHERS: 48.8%
-Wailord/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 82%/Level (if greater than Max Pokemon): 46.9%/Fast: 23.4%/Heavy: 35.2%/ALL OTHERS: 23.4%
-Torkoal/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level (if greater than Max Pokemon): 70.3%/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
-Trapinch/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Vibrava/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level (if greater than Max Pokemon): 93.8%/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
-Flygon/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Lunatone/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Solrock/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 17.6%/ALL OTHERS: 17.6%
-Barboach/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Whiscash/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 100%/Level (if greater than Max Pokemon): 58.6%/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
-Corphish/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level (if greater than Max Pokemon): 100%/Fast: 80.1%/Heavy: 72.3%/ALL OTHERS: 80.1%
-Crawdaunt/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 90.8%/Net: 100%/Level (if greater than Max Pokemon): 100%/Fast: 60.5%/Heavy: 52.7%/ALL OTHERS: 60.5%
-Baltoy/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Claydol/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level (if greater than Max Pokemon): 70.3%/Fast: 35.2%/Heavy: 35.2%/ALL OTHERS: 35.2%
-Feebas/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Milotic/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 82%/Level (if greater than Max Pokemon): 46.9%/Fast: 23.4%/Heavy: 23.4%/ALL OTHERS: 23.4%
-Duskull/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Dusclops/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level (if greater than Max Pokemon): 70.3%/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
-Wynaut/Repeat: 100%/Dusk: 100%/Ultra: 97.7%/Great: 73.2%/Net: 48.8%/Level (if greater than Max Pokemon): 97.7%/Fast: 48.8%/Heavy: 41%/ALL OTHERS: 48.8%
-Snorunt/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Glalie/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level (if greater than Max Pokemon): 58.6%/Fast: 29.3%/Heavy: 37.1%/ALL OTHERS: 29.3%
-Budew/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Roserade/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level (if greater than Max Pokemon): 58.6%/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
-Combee/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 100%/Level (if greater than Max Pokemon): 93.8%/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
-Vespiquen/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 61.5%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Cherubi/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Cherrim/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level (if greater than Max Pokemon): 58.6%/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
-Shellos/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Gastrodon/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 100%/Level (if greater than Max Pokemon): 58.6%/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
-Drifloon/Repeat: 100%/Dusk: 100%/Ultra: 97.7%/Great: 73.2%/Net: 48.8%/Level (if greater than Max Pokemon): 97.7%/Fast: 48.8%/Heavy: 41%/ALL OTHERS: 48.8%
-Drifblim/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level (if greater than Max Pokemon): 46.9%/Fast: 23.4%/Heavy: 15.6%/ALL OTHERS: 23.4%
-Stunky/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 87.9%/Level (if greater than Max Pokemon): 100%/Fast: 87.9%/Heavy: 80.1%/ALL OTHERS: 87.9%
-Skuntank/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level (if greater than Max Pokemon): 46.9%/Fast: 23.4%/Heavy: 15.6%/ALL OTHERS: 23.4%
-Bronzor/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Bronzong/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level (if greater than Max Pokemon): 70.3%/Fast: 35.2%/Heavy: 35.2%/ALL OTHERS: 35.2%
-Bonsly/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Mime Jr./Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 85%/Net: 56.6%/Level (if greater than Max Pokemon): 100%/Fast: 56.6%/Heavy: 48.8%/ALL OTHERS: 56.6%
-Munchlax/Repeat: 68.4%/Dusk: 58.6%/Ultra: 39.1%/Great: 29.3%/Net: 19.5%/Level (if greater than Max Pokemon): 39.1%/Fast: 19.5%/Heavy: 19.5%/ALL OTHERS: 19.5%
-Riolu/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level (if greater than Max Pokemon): 58.6%/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
-Lucario/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 70.3%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Hippopotas/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 82%/Net: 54.7%/Level (if greater than Max Pokemon): 100%/Fast: 54.7%/Heavy: 46.9%/ALL OTHERS: 54.7%
-Hippowdon/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level (if greater than Max Pokemon): 46.9%/Fast: 23.4%/Heavy: 31.3%/ALL OTHERS: 23.4%
-Skorupi/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level (if greater than Max Pokemon): 93.8%/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
-Drapion/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Croagunk/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 82%/Net: 54.7%/Level (if greater than Max Pokemon): 100%/Fast: 54.7%/Heavy: 46.9%/ALL OTHERS: 54.7%
-Toxicroak/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level (if greater than Max Pokemon): 58.6%/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
-Mantyke/Repeat: 34.2%/Dusk: 29.3%/Ultra: 19.5%/Great: 14.6%/Net: 34.2%/Level (if greater than Max Pokemon): 19.5%/Fast: 9.8%/Heavy: 2%/ALL OTHERS: 9.8%
-Snover/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level (if greater than Max Pokemon): 93.8%/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
-Abomasnow/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level (if greater than Max Pokemon): 46.9%/Fast: 23.4%/Heavy: 23.4%/ALL OTHERS: 23.4%
-Weavile/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 70.3%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Rhyperior/Repeat: 41%/Dusk: 35.2%/Ultra: 23.4%/Great: 17.6%/Net: 11.7%/Level (if greater than Max Pokemon): 23.4%/Fast: 11.7%/Heavy: 19.5%/ALL OTHERS: 11.7%
-Togekiss/Repeat: 41%/Dusk: 35.2%/Ultra: 23.4%/Great: 17.6%/Net: 11.7%/Level (if greater than Max Pokemon): 23.4%/Fast: 11.7%/Heavy: 3.9%/ALL OTHERS: 11.7%
-Leafeon/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Glaceon/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Mamoswine/Repeat: 68.4%/Dusk: 58.6%/Ultra: 39.1%/Great: 29.3%/Net: 19.5%/Level (if greater than Max Pokemon): 39.1%/Fast: 19.5%/Heavy: 27.3%/ALL OTHERS: 19.5%
-Gallade/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 70.3%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Dusknoir/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 17.6%/ALL OTHERS: 17.6%
-Froslass/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level (if greater than Max Pokemon): 58.6%/Fast: 100%/Heavy: 21.5%/ALL OTHERS: 29.3%
-Rotom/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Purrloin/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Liepard/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level (if greater than Max Pokemon): 70.3%/Fast: 100%/Heavy: 27.3%/ALL OTHERS: 35.2%
-Munna/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Musharna/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level (if greater than Max Pokemon): 58.6%/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
-Pidove/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Tranquill/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level (if greater than Max Pokemon): 93.8%/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
-Unfezant/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Roggenrola/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Boldore/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level (if greater than Max Pokemon): 93.8%/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
-Gigalith/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 25.4%/ALL OTHERS: 17.6%
-Woobat/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Swoobat/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 70.3%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Drilbur/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level (if greater than Max Pokemon): 93.8%/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
-Excadrill/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level (if greater than Max Pokemon): 46.9%/Fast: 23.4%/Heavy: 15.6%/ALL OTHERS: 23.4%
-Timburr/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 70.3%/Level (if greater than Max Pokemon): 100%/Fast: 70.3%/Heavy: 62.5%/ALL OTHERS: 70.3%
-Gurdurr/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level (if greater than Max Pokemon): 70.3%/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
-Conkeldurr/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Tympole/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Palpitoad/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 100%/Level (if greater than Max Pokemon): 93.8%/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
-Seismitoad/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 61.5%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Throh/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Sawk/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Cottonee/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Whimsicott/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level (if greater than Max Pokemon): 58.6%/Fast: 100%/Heavy: 21.5%/ALL OTHERS: 29.3%
-Basculin/Repeat: 34.2%/Dusk: 29.3%/Ultra: 19.5%/Great: 14.6%/Net: 34.2%/Level (if greater than Max Pokemon): 19.5%/Fast: 9.8%/Heavy: 2%/ALL OTHERS: 9.8%
-Darumaka/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level (if greater than Max Pokemon): 93.8%/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
-Darmanitan/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level (if greater than Max Pokemon): 46.9%/Fast: 93.8%/Heavy: 23.4%/ALL OTHERS: 23.4%
-Dwebble/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Crustle/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 100%/Level (if greater than Max Pokemon): 58.6%/Fast: 29.3%/Heavy: 29.3%/ALL OTHERS: 29.3%
-Scraggy/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 70.3%/Level (if greater than Max Pokemon): 100%/Fast: 70.3%/Heavy: 62.5%/ALL OTHERS: 70.3%
-Scrafty/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level (if greater than Max Pokemon): 70.3%/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
-Sigilyph/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Yamask/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Trubbish/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Garbodor/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level (if greater than Max Pokemon): 46.9%/Fast: 23.4%/Heavy: 23.4%/ALL OTHERS: 23.4%
-Zoroark/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Minccino/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Cinccino/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level (if greater than Max Pokemon): 46.9%/Fast: 93.8%/Heavy: 15.6%/ALL OTHERS: 23.4%
-Gothita/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 78.1%/Level (if greater than Max Pokemon): 100%/Fast: 78.1%/Heavy: 70.3%/ALL OTHERS: 78.1%
-Gothorita/Repeat: 100%/Dusk: 100%/Ultra: 78.1%/Great: 58.6%/Net: 39.1%/Level (if greater than Max Pokemon): 78.1%/Fast: 39.1%/Heavy: 31.3%/ALL OTHERS: 39.1%
-Gothitelle/Repeat: 68.4%/Dusk: 58.6%/Ultra: 39.1%/Great: 29.3%/Net: 19.5%/Level (if greater than Max Pokemon): 39.1%/Fast: 19.5%/Heavy: 11.7%/ALL OTHERS: 19.5%
-Solosis/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 78.1%/Level (if greater than Max Pokemon): 100%/Fast: 78.1%/Heavy: 70.3%/ALL OTHERS: 78.1%
-Duosion/Repeat: 100%/Dusk: 100%/Ultra: 78.1%/Great: 58.6%/Net: 39.1%/Level (if greater than Max Pokemon): 78.1%/Fast: 39.1%/Heavy: 31.3%/ALL OTHERS: 39.1%
-Reuniclus/Repeat: 68.4%/Dusk: 58.6%/Ultra: 39.1%/Great: 29.3%/Net: 19.5%/Level (if greater than Max Pokemon): 39.1%/Fast: 19.5%/Heavy: 11.7%/ALL OTHERS: 19.5%
-Vanillite/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Vanillish/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level (if greater than Max Pokemon): 93.8%/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
-Vanilluxe/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Karrablast/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level (if greater than Max Pokemon): 100%/Fast: 78.1%/Heavy: 70.3%/ALL OTHERS: 78.1%
-Escavalier/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 100%/Level (if greater than Max Pokemon): 58.6%/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
-Frillish/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Jellicent/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 82%/Level (if greater than Max Pokemon): 46.9%/Fast: 23.4%/Heavy: 23.4%/ALL OTHERS: 23.4%
-Joltik/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Galvantula/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level (if greater than Max Pokemon): 58.6%/Fast: 100%/Heavy: 21.5%/ALL OTHERS: 29.3%
-Ferroseed/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Ferrothorn/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level (if greater than Max Pokemon): 70.3%/Fast: 35.2%/Heavy: 35.2%/ALL OTHERS: 35.2%
-Klink/Repeat: 100%/Dusk: 100%/Ultra: 101.6%/Great: 76.2%/Net: 50.8%/Level (if greater than Max Pokemon): 101.6%/Fast: 50.8%/Heavy: 43%/ALL OTHERS: 50.8%
-Klang/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level (if greater than Max Pokemon): 46.9%/Fast: 23.4%/Heavy: 15.6%/ALL OTHERS: 23.4%
-Klinklang/Repeat: 41%/Dusk: 35.2%/Ultra: 23.4%/Great: 17.6%/Net: 11.7%/Level (if greater than Max Pokemon): 23.4%/Fast: 11.7%/Heavy: 3.9%/ALL OTHERS: 11.7%
-Elgyem/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Beheeyem/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level (if greater than Max Pokemon): 70.3%/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
-Litwick/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Lampent/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level (if greater than Max Pokemon): 70.3%/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
-Chandelure/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Axew/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level (if greater than Max Pokemon): 58.6%/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
-Fraxure/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level (if greater than Max Pokemon): 46.9%/Fast: 23.4%/Heavy: 15.6%/ALL OTHERS: 23.4%
-Haxorus/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 17.6%/ALL OTHERS: 17.6%
-Cubchoo/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level (if greater than Max Pokemon): 93.8%/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
-Beartic/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level (if greater than Max Pokemon): 46.9%/Fast: 23.4%/Heavy: 31.3%/ALL OTHERS: 23.4%
-Shelmet/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level (if greater than Max Pokemon): 100%/Fast: 78.1%/Heavy: 70.3%/ALL OTHERS: 78.1%
-Accelgor/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 100%/Level (if greater than Max Pokemon): 58.6%/Fast: 100%/Heavy: 21.5%/ALL OTHERS: 29.3%
-Stunfisk/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level (if greater than Max Pokemon): 58.6%/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
-Golett/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Golurk/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level (if greater than Max Pokemon): 70.3%/Fast: 35.2%/Heavy: 46.9%/ALL OTHERS: 35.2%
-Pawniard/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level (if greater than Max Pokemon): 93.8%/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
-Bisharp/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Rufflet/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Braviary/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level (if greater than Max Pokemon): 46.9%/Fast: 23.4%/Heavy: 15.6%/ALL OTHERS: 23.4%
-Vullaby/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Mandibuzz/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level (if greater than Max Pokemon): 46.9%/Fast: 23.4%/Heavy: 15.6%/ALL OTHERS: 23.4%
-Heatmor/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level (if greater than Max Pokemon): 70.3%/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
-Durant/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level (if greater than Max Pokemon): 70.3%/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
-Deino/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Zweilous/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Hydreigon/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 17.6%/ALL OTHERS: 17.6%
-Bunnelby/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Diggersby/Repeat: 100%/Dusk: 100%/Ultra: 99.2%/Great: 74.4%/Net: 49.6%/Level (if greater than Max Pokemon): 99.2%/Fast: 49.6%/Heavy: 41.8%/ALL OTHERS: 49.6%
-Pancham/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 85.9%/Level (if greater than Max Pokemon): 100%/Fast: 85.9%/Heavy: 78.1%/ALL OTHERS: 85.9%
-Pangoro/Repeat: 88.9%/Dusk: 76.2%/Ultra: 50.8%/Great: 38.1%/Net: 25.4%/Level (if greater than Max Pokemon): 50.8%/Fast: 25.4%/Heavy: 25.4%/ALL OTHERS: 25.4%
-Espurr/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Meowstic/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level (if greater than Max Pokemon): 58.6%/Fast: 100%/Heavy: 21.5%/ALL OTHERS: 29.3%
-Honedge/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 70.3%/Level (if greater than Max Pokemon): 100%/Fast: 70.3%/Heavy: 62.5%/ALL OTHERS: 70.3%
-Doublade/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level (if greater than Max Pokemon): 70.3%/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
-Aegislash/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Spritzee/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 78.1%/Level (if greater than Max Pokemon): 100%/Fast: 78.1%/Heavy: 70.3%/ALL OTHERS: 78.1%
-Aromatisse/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 82%/Net: 54.7%/Level (if greater than Max Pokemon): 100%/Fast: 54.7%/Heavy: 46.9%/ALL OTHERS: 54.7%
-Swirlix/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 78.1%/Level (if greater than Max Pokemon): 100%/Fast: 78.1%/Heavy: 70.3%/ALL OTHERS: 78.1%
-Slurpuff/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 82%/Net: 54.7%/Level (if greater than Max Pokemon): 100%/Fast: 54.7%/Heavy: 46.9%/ALL OTHERS: 54.7%
-Inkay/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Malamar/Repeat: 100%/Dusk: 93.8%/Ultra: 62.5%/Great: 46.9%/Net: 31.3%/Level (if greater than Max Pokemon): 62.5%/Fast: 31.3%/Heavy: 23.4%/ALL OTHERS: 31.3%
-Binacle/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 100%/Level (if greater than Max Pokemon): 93.8%/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
-Barbaracle/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 61.5%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Helioptile/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Heliolisk/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level (if greater than Max Pokemon): 58.6%/Fast: 100%/Heavy: 21.5%/ALL OTHERS: 29.3%
-Sylveon/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Hawlucha/Repeat: 100%/Dusk: 100%/Ultra: 78.1%/Great: 58.6%/Net: 39.1%/Level (if greater than Max Pokemon): 78.1%/Fast: 156.3%/Heavy: 31.3%/ALL OTHERS: 39.1%
-Goomy/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Sliggoo/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Goodra/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 17.6%/ALL OTHERS: 17.6%
-Phantump/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level (if greater than Max Pokemon): 93.8%/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
-Trevenant/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level (if greater than Max Pokemon): 46.9%/Fast: 23.4%/Heavy: 15.6%/ALL OTHERS: 23.4%
-Pumpkaboo/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level (if greater than Max Pokemon): 93.8%/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
-Gourgeist/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level (if greater than Max Pokemon): 46.9%/Fast: 23.4%/Heavy: 15.6%/ALL OTHERS: 23.4%
-Bergmite/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Avalugg/Repeat: 75.2%/Dusk: 64.5%/Ultra: 43%/Great: 32.2%/Net: 21.5%/Level (if greater than Max Pokemon): 43%/Fast: 21.5%/Heavy: 37.1%/ALL OTHERS: 21.5%
-Noibat/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Noivern/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 70.3%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Grubbin/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Charjabug/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level (if greater than Max Pokemon): 93.8%/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
-Vikavolt/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Cutiefly/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Ribombee/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level (if greater than Max Pokemon): 58.6%/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
-Lycanroc/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level (if greater than Max Pokemon): 70.3%/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
-Wishiwashi/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 82%/Level (if greater than Max Pokemon): 46.9%/Fast: 23.4%/Heavy: 15.6%/ALL OTHERS: 23.4%
-Mareanie/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Toxapex/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 100%/Level (if greater than Max Pokemon): 58.6%/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
-Mudbray/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 74.2%/ALL OTHERS: 74.2%
-Mudsdale/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level (if greater than Max Pokemon): 46.9%/Fast: 23.4%/Heavy: 23.4%/ALL OTHERS: 23.4%
-Dewpider/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level (if greater than Max Pokemon): 100%/Fast: 78.1%/Heavy: 70.3%/ALL OTHERS: 78.1%
-Araquanid/Repeat: 100%/Dusk: 100%/Ultra: 78.1%/Great: 58.6%/Net: 100%/Level (if greater than Max Pokemon): 78.1%/Fast: 39.1%/Heavy: 31.3%/ALL OTHERS: 39.1%
-Morelull/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Shiinotic/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level (if greater than Max Pokemon): 58.6%/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
-Salandit/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level (if greater than Max Pokemon): 93.8%/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
-Salazzle/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 70.3%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Stufful/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 82%/Net: 54.7%/Level (if greater than Max Pokemon): 100%/Fast: 54.7%/Heavy: 46.9%/ALL OTHERS: 54.7%
-Bewear/Repeat: 95.7%/Dusk: 82%/Ultra: 54.7%/Great: 41%/Net: 27.3%/Level (if greater than Max Pokemon): 54.7%/Fast: 27.3%/Heavy: 27.3%/ALL OTHERS: 27.3%
-Bounsweet/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 91.8%/Level (if greater than Max Pokemon): 100%/Fast: 91.8%/Heavy: 84%/ALL OTHERS: 91.8%
-Steenee/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level (if greater than Max Pokemon): 93.8%/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
-Tsareena/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Oranguru/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Passimian/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Wimpod/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 100%/Level (if greater than Max Pokemon): 70.3%/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
-Golisopod/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 61.5%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 17.6%/ALL OTHERS: 17.6%
-Pyukumuku/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level (if greater than Max Pokemon): 46.9%/Fast: 23.4%/Heavy: 15.6%/ALL OTHERS: 23.4%
-Turtonator/Repeat: 95.7%/Dusk: 82%/Ultra: 54.7%/Great: 41%/Net: 27.3%/Level (if greater than Max Pokemon): 54.7%/Fast: 27.3%/Heavy: 35.2%/ALL OTHERS: 27.3%
-Togedemaru/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 70.3%/Level (if greater than Max Pokemon): 100%/Fast: 70.3%/Heavy: 62.5%/ALL OTHERS: 70.3%
-Mimikyu/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Drampa/Repeat: 95.7%/Dusk: 82%/Ultra: 54.7%/Great: 41%/Net: 27.3%/Level (if greater than Max Pokemon): 54.7%/Fast: 27.3%/Heavy: 27.3%/ALL OTHERS: 27.3%
-Dhelmise/Repeat: 34.2%/Dusk: 29.3%/Ultra: 19.5%/Great: 14.6%/Net: 9.8%/Level (if greater than Max Pokemon): 19.5%/Fast: 9.8%/Heavy: 2%/ALL OTHERS: 9.8%
-Jangmo-o/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Hakamo-o/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Kommo-o/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Skwovet/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Greedent/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level (if greater than Max Pokemon): 70.3%/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
-Rookidee/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Corvisquire/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level (if greater than Max Pokemon): 93.8%/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
-Corviknight/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Blipbug/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Dottler/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 100%/Level (if greater than Max Pokemon): 93.8%/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
-Orbeetle/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 61.5%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Nickit/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Thievul/Repeat: 100%/Dusk: 100%/Ultra: 99.2%/Great: 74.4%/Net: 49.6%/Level (if greater than Max Pokemon): 99.2%/Fast: 49.6%/Heavy: 41.8%/ALL OTHERS: 49.6%
-Gossifleur/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Eldegoss/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level (if greater than Max Pokemon): 58.6%/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
-Wooloo/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Dubwool/Repeat: 100%/Dusk: 100%/Ultra: 99.2%/Great: 74.4%/Net: 49.6%/Level (if greater than Max Pokemon): 99.2%/Fast: 49.6%/Heavy: 41.8%/ALL OTHERS: 49.6%
-Chewtle/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Drednaw/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 100%/Level (if greater than Max Pokemon): 58.6%/Fast: 29.3%/Heavy: 29.3%/ALL OTHERS: 29.3%
-Yamper/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Boltund/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 70.3%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Rolycoly/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Carkol/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level (if greater than Max Pokemon): 93.8%/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
-Coalossal/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 29.3%/ALL OTHERS: 17.6%
-Applin/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Flapple/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Appletun/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Silicobra/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Sandaconda/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level (if greater than Max Pokemon): 93.8%/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
-Cramorant/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 61.5%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Arrokuda/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Barraskewda/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 82%/Level (if greater than Max Pokemon): 46.9%/Fast: 93.8%/Heavy: 15.6%/ALL OTHERS: 23.4%
-Toxel/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level (if greater than Max Pokemon): 58.6%/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
-Toxtricity/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Sizzlipede/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Centiskorch/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 100%/Level (if greater than Max Pokemon): 58.6%/Fast: 29.3%/Heavy: 29.3%/ALL OTHERS: 29.3%
-Clobbopus/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 70.3%/Level (if greater than Max Pokemon): 100%/Fast: 70.3%/Heavy: 62.5%/ALL OTHERS: 70.3%
-Grapploct/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Sinistea/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level (if greater than Max Pokemon): 93.8%/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
-Polteageist/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level (if greater than Max Pokemon): 46.9%/Fast: 23.4%/Heavy: 15.6%/ALL OTHERS: 23.4%
-Hatenna/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 91.8%/Level (if greater than Max Pokemon): 100%/Fast: 91.8%/Heavy: 84%/ALL OTHERS: 91.8%
-Hattrem/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level (if greater than Max Pokemon): 93.8%/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
-Hatterene/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Impidimp/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level (if greater than Max Pokemon): 100%/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
-Morgrem/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level (if greater than Max Pokemon): 93.8%/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
-Grimmsnarl/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Obstagoon/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Perrserker/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level (if greater than Max Pokemon): 70.3%/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
-Cursola/Repeat: 41%/Dusk: 35.2%/Ultra: 23.4%/Great: 17.6%/Net: 11.7%/Level (if greater than Max Pokemon): 23.4%/Fast: 11.7%/Heavy: 3.9%/ALL OTHERS: 11.7%
-Sirfetch'd/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 17.6%/ALL OTHERS: 17.6%
-Mr. Rime/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Runerigus/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level (if greater than Max Pokemon): 70.3%/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
-Milcery/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 78.1%/Level (if greater than Max Pokemon): 100%/Fast: 78.1%/Heavy: 70.3%/ALL OTHERS: 78.1%
-Alcremie/Repeat: 100%/Dusk: 100%/Ultra: 78.1%/Great: 58.6%/Net: 39.1%/Level (if greater than Max Pokemon): 78.1%/Fast: 39.1%/Heavy: 31.3%/ALL OTHERS: 39.1%
-Falinks/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Pincurchin/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level (if greater than Max Pokemon): 58.6%/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
-Snom/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Frosmoth/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 100%/Level (if greater than Max Pokemon): 58.6%/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
-Stonjourner/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level (if greater than Max Pokemon): 46.9%/Fast: 23.4%/Heavy: 39.1%/ALL OTHERS: 23.4%
-Eiscue/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level (if greater than Max Pokemon): 46.9%/Fast: 93.8%/Heavy: 15.6%/ALL OTHERS: 23.4%
-Indeedee/Repeat: 41%/Dusk: 35.2%/Ultra: 23.4%/Great: 17.6%/Net: 11.7%/Level (if greater than Max Pokemon): 23.4%/Fast: 11.7%/Heavy: 3.9%/ALL OTHERS: 11.7%
-Morpeko/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 70.3%/Level (if greater than Max Pokemon): 100%/Fast: 70.3%/Heavy: 62.5%/ALL OTHERS: 70.3%
-Cufant/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level (if greater than Max Pokemon): 100%/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
-Copperajah/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level (if greater than Max Pokemon): 70.3%/Fast: 35.2%/Heavy: 50.8%/ALL OTHERS: 35.2%
-Duraludon/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Dreepy/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Drakloak/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 70.3%/Heavy: 9.8%/ALL OTHERS: 17.6%
-Dragapult/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level (if greater than Max Pokemon): 35.2%/Fast: 70.3%/Heavy: 9.8%/ALL OTHERS: 17.6%
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Charmander/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Charmeleon/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Charizard/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Caterpie/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Metapod/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 100%/Level: 93.8%(optimal conditions)/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
+Butterfree/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 61.5%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Pikachu/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level: 100%(optimal conditions)/Fast: 100%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Raichu/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level: 58.6%(optimal conditions)/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
+Clefairy/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 87.9%/Net: 58.6%/Level: 100%(optimal conditions)/Fast: 58.6%/Heavy: 50.8%/ALL OTHERS: 58.6%
+Clefable/Repeat: 34.2%/Dusk: 29.3%/Ultra: 19.5%/Great: 14.6%/Net: 9.8%/Level: 19.5%(optimal conditions)/Fast: 9.8%/Heavy: 2%/ALL OTHERS: 9.8%
+Vulpix/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Ninetales/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level: 58.6%(optimal conditions)/Fast: 100%/Heavy: 21.5%/ALL OTHERS: 29.3%
+Oddish/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Gloom/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level: 93.8%(optimal conditions)/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
+Vileplume/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Diglett/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Dugtrio/Repeat: 68.4%/Dusk: 58.6%/Ultra: 39.1%/Great: 29.3%/Net: 19.5%/Level: 39.1%(optimal conditions)/Fast: 78.1%/Heavy: 11.7%/ALL OTHERS: 19.5%
+Meowth/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Growlithe/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Arcanine/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level: 58.6%(optimal conditions)/Fast: 29.3%/Heavy: 29.3%/ALL OTHERS: 29.3%
+Machop/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 70.3%/Level: 100%(optimal conditions)/Fast: 70.3%/Heavy: 62.5%/ALL OTHERS: 70.3%
+Machoke/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level: 70.3%(optimal conditions)/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
+Machamp/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 17.6%/ALL OTHERS: 17.6%
+Ponyta/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Rapidash/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level: 46.9%(optimal conditions)/Fast: 93.8%/Heavy: 15.6%/ALL OTHERS: 23.4%
+Slowpoke/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Farfetch'd/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Shellder/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Cloyster/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 82%/Level: 46.9%(optimal conditions)/Fast: 23.4%/Heavy: 23.4%/ALL OTHERS: 23.4%
+Gastly/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Haunter/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level: 70.3%(optimal conditions)/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
+Gengar/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 70.3%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Onix/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 25.4%/ALL OTHERS: 17.6%
+Krabby/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%(optimal conditions)/Fast: 87.9%/Heavy: 80.1%/ALL OTHERS: 87.9%
+Kingler/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 82%/Level: 46.9%(optimal conditions)/Fast: 23.4%/Heavy: 15.6%/ALL OTHERS: 23.4%
+Hitmonlee/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Hitmonchan/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Koffing/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Weezing/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level: 46.9%(optimal conditions)/Fast: 23.4%/Heavy: 15.6%/ALL OTHERS: 23.4%
+Rhyhorn/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level: 93.8%(optimal conditions)/Fast: 46.9%/Heavy: 46.9%/ALL OTHERS: 46.9%
+Rhydon/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level: 46.9%(optimal conditions)/Fast: 23.4%/Heavy: 23.4%/ALL OTHERS: 23.4%
+Mr. Mime/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Magikarp/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Gyarados/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 61.5%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Lapras/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 61.5%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 25.4%/ALL OTHERS: 17.6%
+Ditto/Repeat: 47.9%/Dusk: 41%/Ultra: 27.3%/Great: 20.5%/Net: 13.7%/Level: 27.3%(optimal conditions)/Fast: 13.7%/Heavy: 5.9%/ALL OTHERS: 13.7%
+Eevee/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Vaporeon/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 61.5%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Jolteon/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 70.3%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Flareon/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Snorlax/Repeat: 34.2%/Dusk: 29.3%/Ultra: 19.5%/Great: 14.6%/Net: 9.8%/Level: 19.5%(optimal conditions)/Fast: 9.8%/Heavy: 25.4%/ALL OTHERS: 9.8%
+Hoothoot/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Noctowl/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level: 70.3%(optimal conditions)/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
+Chinchou/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Lanturn/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level: 58.6%(optimal conditions)/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
+Pichu/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Cleffa/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 87.9%/Net: 58.6%/Level: 100%(optimal conditions)/Fast: 58.6%/Heavy: 50.8%/ALL OTHERS: 58.6%
+Igglybuff/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 99.6%/Net: 66.4%/Level: 100%(optimal conditions)/Fast: 66.4%/Heavy: 58.6%/ALL OTHERS: 66.4%
+Togepi/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Togetic/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level: 58.6%(optimal conditions)/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
+Natu/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Xatu/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level: 58.6%(optimal conditions)/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
+Bellossom/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Sudowoodo/Repeat: 88.9%/Dusk: 76.2%/Ultra: 50.8%/Great: 38.1%/Net: 25.4%/Level: 50.8%(optimal conditions)/Fast: 25.4%/Heavy: 17.6%/ALL OTHERS: 25.4%
+Wooper/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Quagsire/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 100%/Level: 70.3%(optimal conditions)/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
+Espeon/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 70.3%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Umbreon/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Wobbuffet/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Steelix/Repeat: 34.2%/Dusk: 29.3%/Ultra: 19.5%/Great: 14.6%/Net: 9.8%/Level: 19.5%(optimal conditions)/Fast: 9.8%/Heavy: 21.5%/ALL OTHERS: 9.8%
+Qwilfish/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 61.5%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 21.5%/ALL OTHERS: 17.6%
+Shuckle/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 91.8%/ALL OTHERS: 74.2%
+Sneasel/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level: 46.9%(optimal conditions)/Fast: 93.8%/Heavy: 39.1%/ALL OTHERS: 23.4%
+Swinub/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 87.9%/Level: 100%(optimal conditions)/Fast: 87.9%/Heavy: 9.8%/ALL OTHERS: 87.9%
+Piloswine/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level: 58.6%(optimal conditions)/Fast: 29.3%/Heavy: 91.8%/ALL OTHERS: 29.3%
+Corsola/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level: 46.9%(optimal conditions)/Fast: 23.4%/Heavy: 11.7%/ALL OTHERS: 23.4%
+Remoraid/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 91.8%/ALL OTHERS: 74.2%
+Octillery/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 100%/Level: 58.6%(optimal conditions)/Fast: 29.3%/Heavy: 66.4%/ALL OTHERS: 29.3%
+Delibird/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 21.5%/ALL OTHERS: 17.6%
+Mantine/Repeat: 34.2%/Dusk: 29.3%/Ultra: 19.5%/Great: 14.6%/Net: 34.2%/Level: 19.5%(optimal conditions)/Fast: 9.8%/Heavy: 17.6%/ALL OTHERS: 9.8%
+Tyrogue/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level: 58.6%(optimal conditions)/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
+Hitmontop/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Larvitar/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Pupitar/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 17.6%/ALL OTHERS: 17.6%
+Tyranitar/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 17.6%/ALL OTHERS: 17.6%
+Zigzagoon/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Linoone/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level: 70.3%(optimal conditions)/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
+Lotad/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Lombre/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 100%/Level: 93.8%(optimal conditions)/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
+Ludicolo/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 61.5%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Seedot/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Nuzleaf/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level: 93.8%(optimal conditions)/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
+Shiftry/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Wingull/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Pelipper/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 61.5%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Ralts/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 91.8%/Level: 100%(optimal conditions)/Fast: 91.8%/Heavy: 84%/ALL OTHERS: 91.8%
+Kirlia/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level: 93.8%(optimal conditions)/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
+Gardevoir/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Nincada/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Ninjask/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 100%/Level: 93.8%(optimal conditions)/Fast: 100%/Heavy: 39.1%/ALL OTHERS: 46.9%
+Shedinja/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 61.5%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Sableye/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Mawile/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Electrike/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level: 93.8%(optimal conditions)/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
+Manectric/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 70.3%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Roselia/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 87.9%/Net: 58.6%/Level: 100%(optimal conditions)/Fast: 58.6%/Heavy: 50.8%/ALL OTHERS: 58.6%
+Wailmer/Repeat: 100%/Dusk: 100%/Ultra: 97.7%/Great: 73.2%/Net: 100%/Level: 97.7%(optimal conditions)/Fast: 48.8%/Heavy: 48.8%/ALL OTHERS: 48.8%
+Wailord/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 82%/Level: 46.9%(optimal conditions)/Fast: 23.4%/Heavy: 35.2%/ALL OTHERS: 23.4%
+Torkoal/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level: 70.3%(optimal conditions)/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
+Trapinch/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Vibrava/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level: 93.8%(optimal conditions)/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
+Flygon/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Lunatone/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Solrock/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 17.6%/ALL OTHERS: 17.6%
+Barboach/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Whiscash/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 100%/Level: 58.6%(optimal conditions)/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
+Corphish/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%(optimal conditions)/Fast: 80.1%/Heavy: 72.3%/ALL OTHERS: 80.1%
+Crawdaunt/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 90.8%/Net: 100%/Level: 100%(optimal conditions)/Fast: 60.5%/Heavy: 52.7%/ALL OTHERS: 60.5%
+Baltoy/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Claydol/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level: 70.3%(optimal conditions)/Fast: 35.2%/Heavy: 35.2%/ALL OTHERS: 35.2%
+Feebas/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Milotic/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 82%/Level: 46.9%(optimal conditions)/Fast: 23.4%/Heavy: 23.4%/ALL OTHERS: 23.4%
+Duskull/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Dusclops/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level: 70.3%(optimal conditions)/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
+Wynaut/Repeat: 100%/Dusk: 100%/Ultra: 97.7%/Great: 73.2%/Net: 48.8%/Level: 97.7%(optimal conditions)/Fast: 48.8%/Heavy: 41%/ALL OTHERS: 48.8%
+Snorunt/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Glalie/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level: 58.6%(optimal conditions)/Fast: 29.3%/Heavy: 37.1%/ALL OTHERS: 29.3%
+Budew/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Roserade/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level: 58.6%(optimal conditions)/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
+Combee/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 100%/Level: 93.8%(optimal conditions)/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
+Vespiquen/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 61.5%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Cherubi/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Cherrim/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level: 58.6%(optimal conditions)/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
+Shellos/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Gastrodon/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 100%/Level: 58.6%(optimal conditions)/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
+Drifloon/Repeat: 100%/Dusk: 100%/Ultra: 97.7%/Great: 73.2%/Net: 48.8%/Level: 97.7%(optimal conditions)/Fast: 48.8%/Heavy: 41%/ALL OTHERS: 48.8%
+Drifblim/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level: 46.9%(optimal conditions)/Fast: 23.4%/Heavy: 15.6%/ALL OTHERS: 23.4%
+Stunky/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 87.9%/Level: 100%(optimal conditions)/Fast: 87.9%/Heavy: 80.1%/ALL OTHERS: 87.9%
+Skuntank/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level: 46.9%(optimal conditions)/Fast: 23.4%/Heavy: 15.6%/ALL OTHERS: 23.4%
+Bronzor/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Bronzong/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level: 70.3%(optimal conditions)/Fast: 35.2%/Heavy: 35.2%/ALL OTHERS: 35.2%
+Bonsly/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Mime Jr./Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 85%/Net: 56.6%/Level: 100%(optimal conditions)/Fast: 56.6%/Heavy: 48.8%/ALL OTHERS: 56.6%
+Munchlax/Repeat: 68.4%/Dusk: 58.6%/Ultra: 39.1%/Great: 29.3%/Net: 19.5%/Level: 39.1%(optimal conditions)/Fast: 19.5%/Heavy: 19.5%/ALL OTHERS: 19.5%
+Riolu/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level: 58.6%(optimal conditions)/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
+Lucario/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 70.3%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Hippopotas/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 82%/Net: 54.7%/Level: 100%(optimal conditions)/Fast: 54.7%/Heavy: 46.9%/ALL OTHERS: 54.7%
+Hippowdon/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level: 46.9%(optimal conditions)/Fast: 23.4%/Heavy: 31.3%/ALL OTHERS: 23.4%
+Skorupi/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level: 93.8%(optimal conditions)/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
+Drapion/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Croagunk/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 82%/Net: 54.7%/Level: 100%(optimal conditions)/Fast: 54.7%/Heavy: 46.9%/ALL OTHERS: 54.7%
+Toxicroak/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level: 58.6%(optimal conditions)/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
+Mantyke/Repeat: 34.2%/Dusk: 29.3%/Ultra: 19.5%/Great: 14.6%/Net: 34.2%/Level: 19.5%(optimal conditions)/Fast: 9.8%/Heavy: 2%/ALL OTHERS: 9.8%
+Snover/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level: 93.8%(optimal conditions)/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
+Abomasnow/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level: 46.9%(optimal conditions)/Fast: 23.4%/Heavy: 23.4%/ALL OTHERS: 23.4%
+Weavile/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 70.3%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Rhyperior/Repeat: 41%/Dusk: 35.2%/Ultra: 23.4%/Great: 17.6%/Net: 11.7%/Level: 23.4%(optimal conditions)/Fast: 11.7%/Heavy: 19.5%/ALL OTHERS: 11.7%
+Togekiss/Repeat: 41%/Dusk: 35.2%/Ultra: 23.4%/Great: 17.6%/Net: 11.7%/Level: 23.4%(optimal conditions)/Fast: 11.7%/Heavy: 3.9%/ALL OTHERS: 11.7%
+Leafeon/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Glaceon/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Mamoswine/Repeat: 68.4%/Dusk: 58.6%/Ultra: 39.1%/Great: 29.3%/Net: 19.5%/Level: 39.1%(optimal conditions)/Fast: 19.5%/Heavy: 27.3%/ALL OTHERS: 19.5%
+Gallade/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 70.3%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Dusknoir/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 17.6%/ALL OTHERS: 17.6%
+Froslass/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level: 58.6%(optimal conditions)/Fast: 100%/Heavy: 21.5%/ALL OTHERS: 29.3%
+Rotom/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Purrloin/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Liepard/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level: 70.3%(optimal conditions)/Fast: 100%/Heavy: 27.3%/ALL OTHERS: 35.2%
+Munna/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Musharna/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level: 58.6%(optimal conditions)/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
+Pidove/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Tranquill/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level: 93.8%(optimal conditions)/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
+Unfezant/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Roggenrola/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Boldore/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level: 93.8%(optimal conditions)/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
+Gigalith/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 25.4%/ALL OTHERS: 17.6%
+Woobat/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Swoobat/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 70.3%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Drilbur/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level: 93.8%(optimal conditions)/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
+Excadrill/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level: 46.9%(optimal conditions)/Fast: 23.4%/Heavy: 15.6%/ALL OTHERS: 23.4%
+Timburr/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 70.3%/Level: 100%(optimal conditions)/Fast: 70.3%/Heavy: 62.5%/ALL OTHERS: 70.3%
+Gurdurr/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level: 70.3%(optimal conditions)/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
+Conkeldurr/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Tympole/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Palpitoad/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 100%/Level: 93.8%(optimal conditions)/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
+Seismitoad/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 61.5%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Throh/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Sawk/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Cottonee/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Whimsicott/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level: 58.6%(optimal conditions)/Fast: 100%/Heavy: 21.5%/ALL OTHERS: 29.3%
+Basculin/Repeat: 34.2%/Dusk: 29.3%/Ultra: 19.5%/Great: 14.6%/Net: 34.2%/Level: 19.5%(optimal conditions)/Fast: 9.8%/Heavy: 2%/ALL OTHERS: 9.8%
+Darumaka/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level: 93.8%(optimal conditions)/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
+Darmanitan/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level: 46.9%(optimal conditions)/Fast: 93.8%/Heavy: 23.4%/ALL OTHERS: 23.4%
+Dwebble/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Crustle/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 100%/Level: 58.6%(optimal conditions)/Fast: 29.3%/Heavy: 29.3%/ALL OTHERS: 29.3%
+Scraggy/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 70.3%/Level: 100%(optimal conditions)/Fast: 70.3%/Heavy: 62.5%/ALL OTHERS: 70.3%
+Scrafty/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level: 70.3%(optimal conditions)/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
+Sigilyph/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Yamask/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Trubbish/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Garbodor/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level: 46.9%(optimal conditions)/Fast: 23.4%/Heavy: 23.4%/ALL OTHERS: 23.4%
+Zoroark/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Minccino/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Cinccino/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level: 46.9%(optimal conditions)/Fast: 93.8%/Heavy: 15.6%/ALL OTHERS: 23.4%
+Gothita/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 78.1%/Level: 100%(optimal conditions)/Fast: 78.1%/Heavy: 70.3%/ALL OTHERS: 78.1%
+Gothorita/Repeat: 100%/Dusk: 100%/Ultra: 78.1%/Great: 58.6%/Net: 39.1%/Level: 78.1%(optimal conditions)/Fast: 39.1%/Heavy: 31.3%/ALL OTHERS: 39.1%
+Gothitelle/Repeat: 68.4%/Dusk: 58.6%/Ultra: 39.1%/Great: 29.3%/Net: 19.5%/Level: 39.1%(optimal conditions)/Fast: 19.5%/Heavy: 11.7%/ALL OTHERS: 19.5%
+Solosis/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 78.1%/Level: 100%(optimal conditions)/Fast: 78.1%/Heavy: 70.3%/ALL OTHERS: 78.1%
+Duosion/Repeat: 100%/Dusk: 100%/Ultra: 78.1%/Great: 58.6%/Net: 39.1%/Level: 78.1%(optimal conditions)/Fast: 39.1%/Heavy: 31.3%/ALL OTHERS: 39.1%
+Reuniclus/Repeat: 68.4%/Dusk: 58.6%/Ultra: 39.1%/Great: 29.3%/Net: 19.5%/Level: 39.1%(optimal conditions)/Fast: 19.5%/Heavy: 11.7%/ALL OTHERS: 19.5%
+Vanillite/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Vanillish/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level: 93.8%(optimal conditions)/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
+Vanilluxe/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Karrablast/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%(optimal conditions)/Fast: 78.1%/Heavy: 70.3%/ALL OTHERS: 78.1%
+Escavalier/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 100%/Level: 58.6%(optimal conditions)/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
+Frillish/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Jellicent/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 82%/Level: 46.9%(optimal conditions)/Fast: 23.4%/Heavy: 23.4%/ALL OTHERS: 23.4%
+Joltik/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Galvantula/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level: 58.6%(optimal conditions)/Fast: 100%/Heavy: 21.5%/ALL OTHERS: 29.3%
+Ferroseed/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Ferrothorn/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level: 70.3%(optimal conditions)/Fast: 35.2%/Heavy: 35.2%/ALL OTHERS: 35.2%
+Klink/Repeat: 100%/Dusk: 100%/Ultra: 101.6%/Great: 76.2%/Net: 50.8%/Level: 101.6%(optimal conditions)/Fast: 50.8%/Heavy: 43%/ALL OTHERS: 50.8%
+Klang/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level: 46.9%(optimal conditions)/Fast: 23.4%/Heavy: 15.6%/ALL OTHERS: 23.4%
+Klinklang/Repeat: 41%/Dusk: 35.2%/Ultra: 23.4%/Great: 17.6%/Net: 11.7%/Level: 23.4%(optimal conditions)/Fast: 11.7%/Heavy: 3.9%/ALL OTHERS: 11.7%
+Elgyem/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Beheeyem/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level: 70.3%(optimal conditions)/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
+Litwick/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Lampent/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level: 70.3%(optimal conditions)/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
+Chandelure/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Axew/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level: 58.6%(optimal conditions)/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
+Fraxure/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level: 46.9%(optimal conditions)/Fast: 23.4%/Heavy: 15.6%/ALL OTHERS: 23.4%
+Haxorus/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 17.6%/ALL OTHERS: 17.6%
+Cubchoo/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level: 93.8%(optimal conditions)/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
+Beartic/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level: 46.9%(optimal conditions)/Fast: 23.4%/Heavy: 31.3%/ALL OTHERS: 23.4%
+Shelmet/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%(optimal conditions)/Fast: 78.1%/Heavy: 70.3%/ALL OTHERS: 78.1%
+Accelgor/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 100%/Level: 58.6%(optimal conditions)/Fast: 100%/Heavy: 21.5%/ALL OTHERS: 29.3%
+Stunfisk/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level: 58.6%(optimal conditions)/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
+Golett/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Golurk/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level: 70.3%(optimal conditions)/Fast: 35.2%/Heavy: 46.9%/ALL OTHERS: 35.2%
+Pawniard/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level: 93.8%(optimal conditions)/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
+Bisharp/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Rufflet/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Braviary/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level: 46.9%(optimal conditions)/Fast: 23.4%/Heavy: 15.6%/ALL OTHERS: 23.4%
+Vullaby/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Mandibuzz/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level: 46.9%(optimal conditions)/Fast: 23.4%/Heavy: 15.6%/ALL OTHERS: 23.4%
+Heatmor/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level: 70.3%(optimal conditions)/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
+Durant/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level: 70.3%(optimal conditions)/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
+Deino/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Zweilous/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Hydreigon/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 17.6%/ALL OTHERS: 17.6%
+Bunnelby/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Diggersby/Repeat: 100%/Dusk: 100%/Ultra: 99.2%/Great: 74.4%/Net: 49.6%/Level: 99.2%(optimal conditions)/Fast: 49.6%/Heavy: 41.8%/ALL OTHERS: 49.6%
+Pancham/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 85.9%/Level: 100%(optimal conditions)/Fast: 85.9%/Heavy: 78.1%/ALL OTHERS: 85.9%
+Pangoro/Repeat: 88.9%/Dusk: 76.2%/Ultra: 50.8%/Great: 38.1%/Net: 25.4%/Level: 50.8%(optimal conditions)/Fast: 25.4%/Heavy: 25.4%/ALL OTHERS: 25.4%
+Espurr/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Meowstic/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level: 58.6%(optimal conditions)/Fast: 100%/Heavy: 21.5%/ALL OTHERS: 29.3%
+Honedge/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 70.3%/Level: 100%(optimal conditions)/Fast: 70.3%/Heavy: 62.5%/ALL OTHERS: 70.3%
+Doublade/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level: 70.3%(optimal conditions)/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
+Aegislash/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Spritzee/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 78.1%/Level: 100%(optimal conditions)/Fast: 78.1%/Heavy: 70.3%/ALL OTHERS: 78.1%
+Aromatisse/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 82%/Net: 54.7%/Level: 100%(optimal conditions)/Fast: 54.7%/Heavy: 46.9%/ALL OTHERS: 54.7%
+Swirlix/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 78.1%/Level: 100%(optimal conditions)/Fast: 78.1%/Heavy: 70.3%/ALL OTHERS: 78.1%
+Slurpuff/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 82%/Net: 54.7%/Level: 100%(optimal conditions)/Fast: 54.7%/Heavy: 46.9%/ALL OTHERS: 54.7%
+Inkay/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Malamar/Repeat: 100%/Dusk: 93.8%/Ultra: 62.5%/Great: 46.9%/Net: 31.3%/Level: 62.5%(optimal conditions)/Fast: 31.3%/Heavy: 23.4%/ALL OTHERS: 31.3%
+Binacle/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 100%/Level: 93.8%(optimal conditions)/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
+Barbaracle/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 61.5%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Helioptile/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Heliolisk/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level: 58.6%(optimal conditions)/Fast: 100%/Heavy: 21.5%/ALL OTHERS: 29.3%
+Sylveon/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Hawlucha/Repeat: 100%/Dusk: 100%/Ultra: 78.1%/Great: 58.6%/Net: 39.1%/Level: 78.1%(optimal conditions)/Fast: 156.3%/Heavy: 31.3%/ALL OTHERS: 39.1%
+Goomy/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Sliggoo/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Goodra/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 17.6%/ALL OTHERS: 17.6%
+Phantump/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level: 93.8%(optimal conditions)/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
+Trevenant/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level: 46.9%(optimal conditions)/Fast: 23.4%/Heavy: 15.6%/ALL OTHERS: 23.4%
+Pumpkaboo/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level: 93.8%(optimal conditions)/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
+Gourgeist/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level: 46.9%(optimal conditions)/Fast: 23.4%/Heavy: 15.6%/ALL OTHERS: 23.4%
+Bergmite/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Avalugg/Repeat: 75.2%/Dusk: 64.5%/Ultra: 43%/Great: 32.2%/Net: 21.5%/Level: 43%(optimal conditions)/Fast: 21.5%/Heavy: 37.1%/ALL OTHERS: 21.5%
+Noibat/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Noivern/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 70.3%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Grubbin/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Charjabug/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level: 93.8%(optimal conditions)/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
+Vikavolt/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Cutiefly/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Ribombee/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level: 58.6%(optimal conditions)/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
+Lycanroc/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level: 70.3%(optimal conditions)/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
+Wishiwashi/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 82%/Level: 46.9%(optimal conditions)/Fast: 23.4%/Heavy: 15.6%/ALL OTHERS: 23.4%
+Mareanie/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Toxapex/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 100%/Level: 58.6%(optimal conditions)/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
+Mudbray/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 74.2%/ALL OTHERS: 74.2%
+Mudsdale/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level: 46.9%(optimal conditions)/Fast: 23.4%/Heavy: 23.4%/ALL OTHERS: 23.4%
+Dewpider/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%(optimal conditions)/Fast: 78.1%/Heavy: 70.3%/ALL OTHERS: 78.1%
+Araquanid/Repeat: 100%/Dusk: 100%/Ultra: 78.1%/Great: 58.6%/Net: 100%/Level: 78.1%(optimal conditions)/Fast: 39.1%/Heavy: 31.3%/ALL OTHERS: 39.1%
+Morelull/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Shiinotic/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level: 58.6%(optimal conditions)/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
+Salandit/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level: 93.8%(optimal conditions)/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
+Salazzle/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 70.3%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Stufful/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 82%/Net: 54.7%/Level: 100%(optimal conditions)/Fast: 54.7%/Heavy: 46.9%/ALL OTHERS: 54.7%
+Bewear/Repeat: 95.7%/Dusk: 82%/Ultra: 54.7%/Great: 41%/Net: 27.3%/Level: 54.7%(optimal conditions)/Fast: 27.3%/Heavy: 27.3%/ALL OTHERS: 27.3%
+Bounsweet/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 91.8%/Level: 100%(optimal conditions)/Fast: 91.8%/Heavy: 84%/ALL OTHERS: 91.8%
+Steenee/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level: 93.8%(optimal conditions)/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
+Tsareena/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Oranguru/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Passimian/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Wimpod/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 100%/Level: 70.3%(optimal conditions)/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
+Golisopod/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 61.5%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 17.6%/ALL OTHERS: 17.6%
+Pyukumuku/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level: 46.9%(optimal conditions)/Fast: 23.4%/Heavy: 15.6%/ALL OTHERS: 23.4%
+Turtonator/Repeat: 95.7%/Dusk: 82%/Ultra: 54.7%/Great: 41%/Net: 27.3%/Level: 54.7%(optimal conditions)/Fast: 27.3%/Heavy: 35.2%/ALL OTHERS: 27.3%
+Togedemaru/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 70.3%/Level: 100%(optimal conditions)/Fast: 70.3%/Heavy: 62.5%/ALL OTHERS: 70.3%
+Mimikyu/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Drampa/Repeat: 95.7%/Dusk: 82%/Ultra: 54.7%/Great: 41%/Net: 27.3%/Level: 54.7%(optimal conditions)/Fast: 27.3%/Heavy: 27.3%/ALL OTHERS: 27.3%
+Dhelmise/Repeat: 34.2%/Dusk: 29.3%/Ultra: 19.5%/Great: 14.6%/Net: 9.8%/Level: 19.5%(optimal conditions)/Fast: 9.8%/Heavy: 2%/ALL OTHERS: 9.8%
+Jangmo-o/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Hakamo-o/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Kommo-o/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Skwovet/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Greedent/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level: 70.3%(optimal conditions)/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
+Rookidee/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Corvisquire/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level: 93.8%(optimal conditions)/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
+Corviknight/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Blipbug/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Dottler/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 100%/Level: 93.8%(optimal conditions)/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
+Orbeetle/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 61.5%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Nickit/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Thievul/Repeat: 100%/Dusk: 100%/Ultra: 99.2%/Great: 74.4%/Net: 49.6%/Level: 99.2%(optimal conditions)/Fast: 49.6%/Heavy: 41.8%/ALL OTHERS: 49.6%
+Gossifleur/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Eldegoss/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level: 58.6%(optimal conditions)/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
+Wooloo/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Dubwool/Repeat: 100%/Dusk: 100%/Ultra: 99.2%/Great: 74.4%/Net: 49.6%/Level: 99.2%(optimal conditions)/Fast: 49.6%/Heavy: 41.8%/ALL OTHERS: 49.6%
+Chewtle/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Drednaw/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 100%/Level: 58.6%(optimal conditions)/Fast: 29.3%/Heavy: 29.3%/ALL OTHERS: 29.3%
+Yamper/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Boltund/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 70.3%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Rolycoly/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Carkol/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level: 93.8%(optimal conditions)/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
+Coalossal/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 29.3%/ALL OTHERS: 17.6%
+Applin/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Flapple/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Appletun/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Silicobra/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Sandaconda/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level: 93.8%(optimal conditions)/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
+Cramorant/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 61.5%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Arrokuda/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Barraskewda/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 82%/Level: 46.9%(optimal conditions)/Fast: 93.8%/Heavy: 15.6%/ALL OTHERS: 23.4%
+Toxel/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level: 58.6%(optimal conditions)/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
+Toxtricity/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Sizzlipede/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Centiskorch/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 100%/Level: 58.6%(optimal conditions)/Fast: 29.3%/Heavy: 29.3%/ALL OTHERS: 29.3%
+Clobbopus/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 70.3%/Level: 100%(optimal conditions)/Fast: 70.3%/Heavy: 62.5%/ALL OTHERS: 70.3%
+Grapploct/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Sinistea/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level: 93.8%(optimal conditions)/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
+Polteageist/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level: 46.9%(optimal conditions)/Fast: 23.4%/Heavy: 15.6%/ALL OTHERS: 23.4%
+Hatenna/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 91.8%/Level: 100%(optimal conditions)/Fast: 91.8%/Heavy: 84%/ALL OTHERS: 91.8%
+Hattrem/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level: 93.8%(optimal conditions)/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
+Hatterene/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Impidimp/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 99.6%/Level: 100%(optimal conditions)/Fast: 99.6%/Heavy: 91.8%/ALL OTHERS: 99.6%
+Morgrem/Repeat: 100%/Dusk: 100%/Ultra: 93.8%/Great: 70.3%/Net: 46.9%/Level: 93.8%(optimal conditions)/Fast: 46.9%/Heavy: 39.1%/ALL OTHERS: 46.9%
+Grimmsnarl/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Obstagoon/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Perrserker/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level: 70.3%(optimal conditions)/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
+Cursola/Repeat: 41%/Dusk: 35.2%/Ultra: 23.4%/Great: 17.6%/Net: 11.7%/Level: 23.4%(optimal conditions)/Fast: 11.7%/Heavy: 3.9%/ALL OTHERS: 11.7%
+Sirfetch'd/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 17.6%/ALL OTHERS: 17.6%
+Mr. Rime/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Runerigus/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level: 70.3%(optimal conditions)/Fast: 35.2%/Heavy: 27.3%/ALL OTHERS: 35.2%
+Milcery/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 78.1%/Level: 100%(optimal conditions)/Fast: 78.1%/Heavy: 70.3%/ALL OTHERS: 78.1%
+Alcremie/Repeat: 100%/Dusk: 100%/Ultra: 78.1%/Great: 58.6%/Net: 39.1%/Level: 78.1%(optimal conditions)/Fast: 39.1%/Heavy: 31.3%/ALL OTHERS: 39.1%
+Falinks/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Pincurchin/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 29.3%/Level: 58.6%(optimal conditions)/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
+Snom/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 100%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Frosmoth/Repeat: 100%/Dusk: 87.9%/Ultra: 58.6%/Great: 43.9%/Net: 100%/Level: 58.6%(optimal conditions)/Fast: 29.3%/Heavy: 21.5%/ALL OTHERS: 29.3%
+Stonjourner/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level: 46.9%(optimal conditions)/Fast: 23.4%/Heavy: 39.1%/ALL OTHERS: 23.4%
+Eiscue/Repeat: 82%/Dusk: 70.3%/Ultra: 46.9%/Great: 35.2%/Net: 23.4%/Level: 46.9%(optimal conditions)/Fast: 93.8%/Heavy: 15.6%/ALL OTHERS: 23.4%
+Indeedee/Repeat: 41%/Dusk: 35.2%/Ultra: 23.4%/Great: 17.6%/Net: 11.7%/Level: 23.4%(optimal conditions)/Fast: 11.7%/Heavy: 3.9%/ALL OTHERS: 11.7%
+Morpeko/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 70.3%/Level: 100%(optimal conditions)/Fast: 70.3%/Heavy: 62.5%/ALL OTHERS: 70.3%
+Cufant/Repeat: 100%/Dusk: 100%/Ultra: 100%/Great: 100%/Net: 74.2%/Level: 100%(optimal conditions)/Fast: 74.2%/Heavy: 66.4%/ALL OTHERS: 74.2%
+Copperajah/Repeat: 100%/Dusk: 100%/Ultra: 70.3%/Great: 52.7%/Net: 35.2%/Level: 70.3%(optimal conditions)/Fast: 35.2%/Heavy: 50.8%/ALL OTHERS: 35.2%
+Duraludon/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Dreepy/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 17.6%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Drakloak/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 70.3%/Heavy: 9.8%/ALL OTHERS: 17.6%
+Dragapult/Repeat: 61.5%/Dusk: 52.7%/Ultra: 35.2%/Great: 26.4%/Net: 17.6%/Level: 35.2%(optimal conditions)/Fast: 70.3%/Heavy: 9.8%/ALL OTHERS: 17.6%
