@@ -21,27 +21,35 @@ with open("types.txt", 'r') as f:
       for line in f:
         items = line.split('/')
         key, values = items[0], items[1:]
-        norm_dict[key] = values
+        types_dict[key] = values
         
 @client.event
 async def on_message(message):
     # we do not want the bot to reply to itself
     if message.author == client.user:
         return
-      
+    #Help  
     if message.content.startswith('%help') or message.content.startswith('$help'):
       msg="Enter query as '%ball (or $ball) [PokemonNameHere]' to get pokemon catch rates! \n"
       msg+="Enter query as '%ball (or $ball) G [PokemonNameHere]' to get catch rates for gigantamaxes!"
       await client.send_message(message.channel, msg)
 
+    #Wiggly
     elif message.content.startswith('%wiggly') or message.content.startswith('$wiggly'):
       await client.send_file(message.channel, "wiggly.png")
 
+    #type matchup
     elif message.content.startswith('%matchup') or message.content.startswith('$matchup'):
-      word=message.content.capitalize()
-      msg="For "+word+"types, use "+ norm_dict.get(pk) + " moves!"     
+      words=message.content.split()
+      if(len(words)!=2):
+        msg="Please only enter one type at a time!"
+      elif words[1] not in types_dict:
+        msg="Invalid input!"
+      else:
+        msg="For "+words[1]+"types, use "+ types_dict.get(words[1]) + " moves!"     
       await client.send_message(message.channel, msg)
 
+    #Ballbot
     elif message.content.startswith('%ball') or message.content.startswith('$ball'):
         words = message.content.split()
         if (len(words)<2) or (len(words)>3):
