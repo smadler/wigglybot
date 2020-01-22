@@ -48,7 +48,7 @@ async def on_message(message):
         msg="Invalid input!"
       else:
         msg=
-        msg='For '+search
+        msg='For '+str(search)
         msg+=' types, use '+''.join(map(str,types_dict.get(search)))
         msg+=' type moves!'
       await client.send_message(message.channel, msg)
