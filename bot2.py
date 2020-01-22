@@ -23,7 +23,7 @@ async def on_message(message):
     if message.author == client.user:
         return
       
-    if message.content.startswith('%help') or message.content.startswith('$help'):
+    if message.content.startswith('%help' or '$help'):
       msg="Enter query as '%ball (or $ball) [PokemonNameHere]' to get pokemon catch rates! \n"
       msg+="Enter query as '%ball (or $ball) G [PokemonNameHere]' to get catch rates for gigantamaxes!"
       await client.send_message(message.channel, msg)
