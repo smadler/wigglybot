@@ -23,15 +23,15 @@ async def on_message(message):
     if message.author == client.user:
         return
       
-    if message.content.startswith('%help'):
-      msg="Enter query as '%ball [PokemonNameHere]' to get pokemon catch rates! \n"
-      msg+="Enter query as '%ball G [PokemonNameHere]' to get catch rates for gigantamaxes!"
+    if message.content.startswith('%help') or message.content.startswith('$help'):
+      msg="Enter query as '%ball (or $ball) [PokemonNameHere]' to get pokemon catch rates! \n"
+      msg+="Enter query as '%ball (or $ball) G [PokemonNameHere]' to get catch rates for gigantamaxes!"
       await client.send_message(message.channel, msg)
 
     elif message.content.startswith('%wiggly'):
       await client.send_file(message.channel, "wiggly.png")
 
-    elif message.content.startswith('%ball'):
+    elif message.content.startswith('%ball') or message.content.startswith('$ball'):
         words = message.content.split()
         if (len(words)<2) or (len(words)>3):
             msg="Invalid input!"
