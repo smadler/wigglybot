@@ -30,8 +30,9 @@ async def on_message(message):
         return
     #Help  
     if message.content.startswith('%help') or message.content.startswith('$help'):
-      msg="Enter query as '%ball (or $ball) [PokemonNameHere]' to get pokemon catch rates! \n"
-      msg+="Enter query as '%ball (or $ball) G [PokemonNameHere]' to get catch rates for gigantamaxes!"
+      msg="Enter query as '%ball (or $ball) PokemonName' to get pokemon catch rates! \n"
+      msg+="Enter query as '%ball (or $ball) G PokemonName' to get catch rates for gigantamaxes! \n"
+      msg+="Wondering what pokemon to use in a fight? Use '%matchup (or $matchup) TypeName' to find out!"
       await client.send_message(message.channel, msg)
 
     #Wiggly
